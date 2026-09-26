@@ -28,7 +28,7 @@ Building a system that converts educational chart images into structured CSV/JSO
 Built a reproducible Python workflow that ingested and cleaned a 414-record dataset, performed exploratory analysis and entropy-based discretization, mined association rules, and compared ID3 and Naive Bayes classifiers.
 
 ### Savannah Tourism Relational Database — Completed
-Converted source information and 26 semantic rules into a MySQL relational design normalized through 4NF, with functional dependencies, a universal relation diagram, a data dictionary, EER modeling, database views, and analytical queries.
+MySQL database case study covering 49 Assignment 2 semantic rules, 27 Assignment 3 EER rules, normalization through 4NF, a 52-table schema, 3 views, 17 SQL queries, and 181 source-derived hotel and restaurant records.
 
 ### Shortest-Path Optimization in Airline Networks — Completed
 Modeled 30 major U.S. airports in multiple network structures, calculated Haversine distances and estimated flight times, and compared Dijkstra and A* for optimal-path accuracy and runtime.
