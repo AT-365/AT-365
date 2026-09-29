@@ -24,10 +24,10 @@ I combine hands-on work in data, databases, programming, analytics, and applied 
 ### Educational Visual Intelligence / Chart-to-Data Pipeline — In progress
 Building a system that converts educational chart images into structured CSV/JSON data using OpenCV/OCR and transformer-based chart models, then extends the output through validation, ETL, dimensional warehousing, and visualization.
 
-### Data Mining Classification & Rule-Mining Pipeline — Completed
-Built a reproducible Python workflow that ingested and cleaned a 414-record dataset, performed exploratory analysis and entropy-based discretization, mined association rules, and compared ID3 and Naive Bayes classifiers.
+### [Data Mining Classification Portfolio](https://github.com/AT-365/data-mining-rule-classification-pipeline) — Completed
+Curated two independent graduate Data Mining projects: a reproducible association-rule classification workflow for a 414-record macroeconomic dataset and an interactive, from-scratch ID3/Naive Bayes pipeline with calculation-level evidence and transparent evaluation.
 
-### Savannah Tourism Relational Database — Completed
+### [Savannah Tourism Relational Database](https://github.com/AT-365/savannah-tourism-relational-database) — Completed
 MySQL database case study covering 49 Assignment 2 semantic rules, 27 Assignment 3 EER rules, normalization through 4NF, a 52-table schema, 3 views, 17 SQL queries, and 181 source-derived hotel and restaurant records.
 
 ### Shortest-Path Optimization in Airline Networks — Completed
@@ -44,7 +44,7 @@ Created a policy-based access-control simulation on Azure and Ubuntu Linux cover
 
 ## Portfolio development
 
-Recruiter-safe repositories and documentation for the selected projects are being prepared and will be linked here as they are published.
+The completed Data Mining and Savannah database repositories are recruiter-ready, linked above, and pinned below. Additional projects will be linked as their documentation is finalized.
 
 ## Connect
 
