@@ -30,8 +30,8 @@ Curated two independent graduate Data Mining projects: a reproducible associatio
 ### [Savannah Tourism Relational Database](https://github.com/AT-365/savannah-tourism-relational-database) — Completed
 MySQL database case study covering 49 Assignment 2 semantic rules, 27 Assignment 3 EER rules, normalization through 4NF, a 52-table schema, 3 views, 17 SQL queries, and 181 source-derived hotel and restaurant records.
 
-### Shortest-Path Optimization in Airline Networks — Completed
-Modeled 30 major U.S. airports in multiple network structures, calculated Haversine distances and estimated flight times, and compared Dijkstra and A* for optimal-path accuracy and runtime.
+### [Shortest-Path Optimization in Airline Networks](https://github.com/AT-365/airline-network-pathfinding) — Completed
+Modeled 20 major U.S. airports and 293 directed historical routes, implemented Dijkstra and A* from scratch with a Haversine heuristic, and validated 100% shortest-path cost agreement across 120 origin-destination pairs while A* reduced mean node expansions by 74.35%.
 
 ### [Zero Trust Architecture Simulation](https://github.com/AT-365/zero-trust-architecture-simulation) — Completed
 Built a hybrid Azure Ubuntu lab and executable Python Zero Trust policy engine that evaluates identity, role-based access, device posture and risk, resource sensitivity, and network segmentation across 13 reproducible access scenarios, with automated tests and sanitized packet-capture evidence.
@@ -44,7 +44,7 @@ Built a hybrid Azure Ubuntu lab and executable Python Zero Trust policy engine t
 
 ## Portfolio development
 
-The completed Data Mining, Savannah database, and Zero Trust repositories are recruiter-ready, linked above, and pinned below. Additional projects will be linked as their documentation is finalized.
+The completed Data Mining, Savannah database, Zero Trust, and Airline Network Pathfinding repositories are recruiter-ready and linked above. Additional projects will be linked as their documentation is finalized.
 
 ## Connect
 
