@@ -33,8 +33,8 @@ MySQL database case study covering 49 Assignment 2 semantic rules, 27 Assignment
 ### Shortest-Path Optimization in Airline Networks — Completed
 Modeled 30 major U.S. airports in multiple network structures, calculated Haversine distances and estimated flight times, and compared Dijkstra and A* for optimal-path accuracy and runtime.
 
-### Zero Trust Architecture Simulation — Completed
-Created a policy-based access-control simulation on Azure and Ubuntu Linux covering identity, role, device posture, network segment, least privilege, monitoring, packet capture, and structured security testing.
+### [Zero Trust Architecture Simulation](https://github.com/AT-365/zero-trust-architecture-simulation) — Completed
+Built a hybrid Azure Ubuntu lab and executable Python Zero Trust policy engine that evaluates identity, role-based access, device posture and risk, resource sensitivity, and network segmentation across 13 reproducible access scenarios, with automated tests and sanitized packet-capture evidence.
 
 ## Education and credentials
 
@@ -44,7 +44,7 @@ Created a policy-based access-control simulation on Azure and Ubuntu Linux cover
 
 ## Portfolio development
 
-The completed Data Mining and Savannah database repositories are recruiter-ready, linked above, and pinned below. Additional projects will be linked as their documentation is finalized.
+The completed Data Mining, Savannah database, and Zero Trust repositories are recruiter-ready, linked above, and pinned below. Additional projects will be linked as their documentation is finalized.
 
 ## Connect
 
